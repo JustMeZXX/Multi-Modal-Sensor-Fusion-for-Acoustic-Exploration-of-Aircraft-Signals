@@ -12,4 +12,4 @@ The code will be released here.
 The citation information will be provided here. 
 
 ### Acknowledge
-The acknowledge information will be provided here. 
+The acknowledgement will be provided here. 
