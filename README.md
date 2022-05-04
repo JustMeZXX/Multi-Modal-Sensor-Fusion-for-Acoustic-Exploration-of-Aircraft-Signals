@@ -1,6 +1,6 @@
-# Fusing Acoustic Waveforms with Aircraft Automatic Dependent Surveillance-Broadcast (ADS-B) Data to Explore Acoustic Detection Range and Source Frequency for Different Aircraft Types
+# Fusing Acoustic Waveforms with Aircraft ADS-B Data to Explore Acoustic Detection Range and Source Frequency for Different Aircraft Types
 
-This repo is the official implementation for [Fusing Acoustic Waveforms with Aircraft Automatic Dependent Surveillance-Broadcast (ADS-B) Data to Explore Acoustic Detection Range and Source Frequency for Different Aircraft Types].
+This repo is the official implementation for [Fusing Acoustic Waveforms with Aircraft ADS-B Data to Explore Acoustic Detection Range and Source Frequency for Different Aircraft Types].
 
 ### Dataset
 The experimental acoustic waveform with analyst labels and the raw ADS-B data (.csv files) used in this study will be available at: [Dataset]. 
