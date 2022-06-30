@@ -1,4 +1,4 @@
-# Fusing Acoustic Waveforms with Aircraft Tracking Data to Explore Acoustic Detection Range and Source Frequency for Different Aircraft Types
+# Exploring Aircraft Acoustic Detection Range and Source Frequency for Different Aircraft Types Using Automatic Labeling of Aircraft Tracking Data
 
 This repo is the official implementation for [Fusing Acoustic Waveforms with Aircraft Tracking Data to Explore Acoustic Detection Range and Source Frequency for Different Aircraft Types].
 
