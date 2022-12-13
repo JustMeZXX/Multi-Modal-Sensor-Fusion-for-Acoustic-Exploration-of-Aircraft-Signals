@@ -3,7 +3,7 @@
 This repo is the official implementation for [Exploring Acoustic Characteristics of Different Aircraft Types Using Automatic Labeling of Aircraft Tracking Data].
 
 ### Dataset
-The experimental acoustic waveform with analyst labels and the raw ADS-B data (.csv files) used in this study will be available at: [Dataset]. 
+The dataset is uploaded in [dataset](https://github.com/JustMeZXX/Multi-Modal-Sensor-Fusion-for-Acoustic-Exploration-of-Aircraft-Signals/tree/main/data), please follow the readme file to get access to the data.
 
 ### Code
 The code will be released here. 
