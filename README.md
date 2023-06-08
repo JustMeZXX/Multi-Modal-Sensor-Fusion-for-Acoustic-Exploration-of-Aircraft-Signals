@@ -24,6 +24,3 @@ If you find our work useful for your research, please consider citing:
         doi = {10.1121/10.0019594},
         url = {https://doi.org/10.1121/10.0019594},
         eprint = {https://pubs.aip.org/asa/jasa/article-pdf/153/5/3138/17860313/3138\_1\_10.0019594.pdf}}
-
-### Acknowledge
-The acknowledgement will be provided here. 
